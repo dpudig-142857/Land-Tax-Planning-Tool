@@ -1,0 +1,32 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color: #ffffff;
+}
+
+html, body{
+  scroll-behavior: smooth;
+}
+
+main {
+  max-width: 800px;
+  margin: auto;
+}
+
+p {
+  background-color: #384fa3;
+  max-width: 70%;
+  height:70px;
+  padding: 20px;
+  border-radius: 50px;
+}
+
+p span{
+  margin: 5px;
+}
+
+p span:first-child{
+  margin-right: 0;
+}

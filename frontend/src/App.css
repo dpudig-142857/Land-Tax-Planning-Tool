@@ -1,0 +1,301 @@
+.bigHeader {
+    color: #000000;
+    text-align: center;
+}
+
+.landholdersHeader {
+    color: #000000;
+    text-align: center;
+    margin-top: -20px;
+}
+
+.landholdersSubHeader {
+    color: #000000;
+    text-align: center;
+    margin-top: -20px;
+}
+
+.landholderForm {
+  text-align: center;
+  bottom: 0;
+}
+
+.landholderName {
+    width: 120px;
+    height: 20px;
+    padding: 15px;
+    border-radius: 50px;
+    outline-color: #000000;
+    color: #000000;
+}
+
+.landholderType {
+    margin-left: 7%;
+    width: 130px;
+    height: 60px;
+    padding: 15px;
+    border-radius: 50px;
+    outline-color: #000000;
+    color: #000000;
+}
+
+.landholderBeneficiary {
+    margin-left: 7%;
+    width: 130px;
+    height: 60px;
+    padding: 15px;
+    border-radius: 50px;
+    outline-color: #000000;
+    color: #000000;
+}
+
+.landholderHidden {
+    visibility: hidden;
+    margin-left: 7%;
+    width: 130px;
+    height: 60px;
+    padding: 15px;
+    border-radius: 50px;
+}
+
+.landholderSubmit {
+    margin-left: 7%;
+    width: 130px;
+    height: 60px;
+    padding: 15px;
+    border-radius: 50px;
+    outline-color: #000000;
+    color: #000000;
+}
+
+.landholderName, .landholderType, .landholderBeneficiary, .landholderHidden, .landholderSubmit {
+    display:inline-block;
+    vertical-align:middle;
+}
+
+.landholderTable, th, td {
+    margin-left: 80px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 600px;
+    color: #000000;
+    outline-color: #000000;
+    border:1px solid black;
+    border-collapse: collapse;
+}
+
+.deleteLandholderForm {
+  text-align: center;
+  bottom: 0;
+}
+
+.deleteLandholder {
+    margin-left: 4%;
+    width: 160px;
+    height: 50px;
+    padding: 15px;
+    border-radius: 50px;
+    outline-color: #000000;
+    color: #000000;
+}
+
+.deleteLandholderSubmit {
+    margin-left: 7%;
+    width: 150px;
+    height: 60px;
+    padding: 10px;
+    border-radius: 50px;
+    outline-color: #000000;
+    color: #000000;
+}
+
+.deleteLandholder, .deleteLandholderSubmit {
+    display:inline-block;
+    vertical-align:middle;
+}
+
+.propertiesHeader {
+    color: #000000;
+    text-align: center;
+}
+
+.propertyForm {
+    text-align: center;
+    bottom: 0;
+}
+
+.propertyAddress {
+    width: 120px;
+    height: 20px;
+    padding: 15px;
+    border-radius: 50px;
+    outline-color: #000000;
+    color: #000000;
+}
+
+.propertyValue {
+    margin-left: 4%;
+    width: 120px;
+    height: 20px;
+    padding: 15px;
+    border-radius: 50px;
+    outline-color: #000000;
+    color: #000000;
+}
+
+.propertyOwner {
+    margin-left: 4%;
+    width: 140px;
+    height: 50px;
+    padding: 15px;
+    border-radius: 50px;
+    outline-color: #000000;
+    color: #000000;
+}
+
+.propertyPPR {
+    margin-left: 4%;
+    width: 80px;
+    height: 50px;
+    padding: 15px;
+    border-radius: 50px;
+    outline-color: #000000;
+    color: #000000;
+}
+
+.propertySubmit {
+    margin-left: 4%;
+    width: 130px;
+    height: 60px;
+    padding: 15px;
+    border-radius: 50px;
+    outline-color: #000000;
+    color: #000000;
+}
+
+.propertyAddress, .propertyValue, .propertyPPR, .propertyOwner, .propertySubmit {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.propertyTable, th, td {
+    margin-left: 80px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 600px;
+    color: #000000;
+    outline-color: #000000;
+    border:1px solid black;
+    border-collapse: collapse;
+}
+
+.deletePropertyForm {
+  text-align: center;
+  bottom: 0;
+}
+
+.deleteProperty {
+    margin-left: 4%;
+    width: 150px;
+    height: 50px;
+    padding: 15px;
+    border-radius: 50px;
+    outline-color: #000000;
+    color: #000000;
+}
+
+.deletePropertySubmit {
+    margin-left: 7%;
+    width: 150px;
+    height: 60px;
+    padding: 10px;
+    border-radius: 50px;
+    outline-color: #000000;
+    color: #000000;
+}
+
+.deleteProperty, .deletePropertySubmit {
+    display:inline-block;
+    vertical-align:middle;
+}
+
+.extraOwnerHeader {
+    color: #000000;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.extraOwnerForm {
+    text-align: center;
+    bottom: 0;
+}
+
+.extraOwnerProperty {
+    margin-left: 4%;
+    width: 150px;
+    height: 50px;
+    padding: 15px;
+    border-radius: 50px;
+    outline-color: #000000;
+    color: #000000;
+}
+
+.extraOwner {
+    margin-left: 4%;
+    width: 140px;
+    height: 50px;
+    padding: 15px;
+    border-radius: 50px;
+    outline-color: #000000;
+    color: #000000;
+}
+
+.extraOwnerSubmit {
+    margin-left: 4%;
+    width: 150px;
+    height: 60px;
+    padding: 15px;
+    border-radius: 50px;
+    outline-color: #000000;
+    color: #000000;
+}
+
+.extraOwnerProperty, .extraOwner, .extraOwnerSubmit {
+    margin-top: -10px;
+    margin-bottom: 30px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.calculateForm {
+    text-align: center;
+    bottom: 0;
+}
+
+.calculate {
+    margin-top: 8px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 4%;
+    margin-bottom: 30px;
+    width: 150px;
+    height: 50px;
+    padding: 15px;
+    border-radius: 50px;
+    outline-color: #000000;
+    color: #000000;
+}
+
+.taxTable, th, td {
+    margin-left: 80px;
+    margin-bottom: 30px;
+    width: 650px;
+    color: #000000;
+    outline-color: #000000;
+    border:1px solid black;
+    border-collapse: collapse;
+}
+
+.hideTaxTable {
+    visibility: hidden;
+}
